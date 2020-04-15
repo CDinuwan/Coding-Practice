@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.exe.config
 C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.exe
 C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.pdb
@@ -5,3 +6,12 @@ C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.cs
 C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.csproj.CoreCompileInputs.cache
 C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.exe
 C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.pdb
+=======
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.exe.config
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.exe
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.pdb
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.exe
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.pdb
+>>>>>>> 3fbb18360eac52171f8b649dd012f79070cb72d4

@@ -1,0 +1,1 @@
+This about simple practising OOP and algorithms
