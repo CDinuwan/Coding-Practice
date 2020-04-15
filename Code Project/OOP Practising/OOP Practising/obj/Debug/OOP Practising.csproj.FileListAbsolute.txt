@@ -1,0 +1,7 @@
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.exe.config
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.exe
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\bin\Debug\OOP Practising.pdb
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.exe
+C:\Users\hecdi\Desktop\OOP Practising\OOP Practising\obj\Debug\OOP Practising.pdb
