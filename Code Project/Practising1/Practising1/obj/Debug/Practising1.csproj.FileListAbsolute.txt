@@ -1,0 +1,7 @@
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\bin\Debug\Practising1.exe.config
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\bin\Debug\Practising1.exe
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\bin\Debug\Practising1.pdb
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\obj\Debug\Practising1.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\obj\Debug\Practising1.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\obj\Debug\Practising1.exe
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Practising1\Practising1\obj\Debug\Practising1.pdb
