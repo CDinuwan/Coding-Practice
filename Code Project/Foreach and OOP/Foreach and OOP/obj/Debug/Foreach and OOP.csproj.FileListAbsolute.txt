@@ -1,0 +1,7 @@
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\bin\Debug\Foreach and OOP.exe.config
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\bin\Debug\Foreach and OOP.exe
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\bin\Debug\Foreach and OOP.pdb
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\obj\Debug\Foreach and OOP.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\obj\Debug\Foreach and OOP.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\obj\Debug\Foreach and OOP.exe
+C:\Users\hecdi\Desktop\C# CODES\Code Project\Foreach and OOP\Foreach and OOP\obj\Debug\Foreach and OOP.pdb
