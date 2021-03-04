@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static class", "Static class\Static class.csproj", "{CAD5AD75-D165-4D46-AA06-0345B0181280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD5AD75-D165-4D46-AA06-0345B0181280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD5AD75-D165-4D46-AA06-0345B0181280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD5AD75-D165-4D46-AA06-0345B0181280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD5AD75-D165-4D46-AA06-0345B0181280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2362393A-3B4C-4661-AD0A-6C463B2B50C9}
+	EndGlobalSection
+EndGlobal
